@@ -2,12 +2,12 @@ Suckless DWM with patches.
 
 One branch for each patch:
 
-1 Fake fullscreen
-2 PerTag
-3 NoBorder
-4 MoveStack
-5 Fullscreen
-6 ... and a Config Branch
+1. Fake fullscreen
+2. PerTag
+3. NoBorder
+4. MoveStack
+5. Fullscreen
+6. ... and a Config Branch
 
 ## Building DWM
 dwm can be built using the script `suckmerge` or alternativly:
